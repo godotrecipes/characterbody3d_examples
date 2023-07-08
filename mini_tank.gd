@@ -4,8 +4,8 @@ extends CharacterBody3D
 @export var turn_speed = 0.8
 @export var mouse_sensitivity = 0.002
 
-@onready var head = $"mini_tank 230327/Head_Cube001"
-@onready var gun = $"mini_tank 230327/Cannon_Cube005"
+@onready var head = $"mini_tank 230327/Head_Cube_001"
+@onready var gun = $"mini_tank 230327/Cannon_Cube_005"
 
 var gravity = ProjectSettings.get_setting("physics/3d/default_gravity")
 
