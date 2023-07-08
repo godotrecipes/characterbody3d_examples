@@ -1,0 +1,26 @@
+# Blender MTL File: 'mini_tank.blend'
+# Material Count: 2
+
+newmtl low_poly_material
+Ns 143.999983
+Ka 0.800000 0.800000 0.800000
+Kd 0.800000 0.800000 0.800000
+Ks 0.600000 0.600000 0.600000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump normal_map.png
+map_Kd flat_color.png
+
+newmtl low_poly_material.002
+Ns 143.999983
+Ka 0.800000 0.800000 0.800000
+Kd 0.800000 0.800000 0.800000
+Ks 0.600000 0.600000 0.600000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump normal_map.png
+map_Kd flat_color.png

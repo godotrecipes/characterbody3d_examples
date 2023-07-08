@@ -1,0 +1,82 @@
+# Made using Asset Forge (www.assetforge.io) version 1.3 
+
+newmtl Rock (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.631 0.624 0.612 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Grass (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.133 0.545 0.133 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Rock (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.631 0.624 0.612 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Grass (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.133 0.545 0.133 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Rock (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.631 0.624 0.612 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Grass (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.133 0.545 0.133 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Rock (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.631 0.624 0.612 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Grass (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.133 0.545 0.133 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Rock (Instance) (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.631 0.624 0.612 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Grass (Instance) (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.133 0.545 0.133 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Rock (Instance) (Instance) (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.631 0.624 0.612 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Grass (Instance) (Instance) (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.133 0.545 0.133 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Rock (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.631 0.624 0.612 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Grass (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.133 0.545 0.133 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Rock (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.631 0.624 0.612 
+Ks 0.330000 0.330000 0.330000 
+
+newmtl Grass (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance) (Instance)
+Ka 0.000000 0.000000 0.000000 
+Kd 0.133 0.545 0.133 
+Ks 0.330000 0.330000 0.330000 
+
