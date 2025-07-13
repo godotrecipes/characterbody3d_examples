@@ -3,16 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db2ydfbsb6ux3"
-path.etc2="res://.godot/imported/flat_color.png-fae33d2788f7caeea9b7db1731b13f30.etc2.ctex"
+path.s3tc="res://.godot/imported/flat_color.png-fae33d2788f7caeea9b7db1731b13f30.s3tc.ctex"
 metadata={
-"imported_formats": ["etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/mini_tank/flat_color.png"
-dest_files=["res://.godot/imported/flat_color.png-fae33d2788f7caeea9b7db1731b13f30.etc2.ctex"]
+dest_files=["res://.godot/imported/flat_color.png-fae33d2788f7caeea9b7db1731b13f30.s3tc.ctex"]
 
 [params]
 

@@ -1,10 +1,10 @@
 [gd_scene load_steps=12 format=3 uid="uid://bmcp585yeyn5o"]
 
-[ext_resource type="Script" path="res://world.gd" id="1_6ym7i"]
+[ext_resource type="Script" uid="uid://cwuyryxt3lix6" path="res://world.gd" id="1_6ym7i"]
 [ext_resource type="PackedScene" uid="uid://dmggfl6m8br6f" path="res://assets/terrain/terrain1.obj" id="1_khycm"]
 [ext_resource type="PackedScene" uid="uid://cnkgsrhqd65g" path="res://assets/terrain/terrain2.obj" id="2_dscmu"]
 [ext_resource type="PackedScene" uid="uid://0gr6fdj6ml11" path="res://mini_tank.tscn" id="3_50yt4"]
-[ext_resource type="Script" path="res://Camera3D.gd" id="5_yg61v"]
+[ext_resource type="Script" uid="uid://ftihltb6am5c" path="res://Camera3D.gd" id="5_yg61v"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_nvuu8"]
 sky_horizon_color = Color(0.64625, 0.65575, 0.67075, 1)

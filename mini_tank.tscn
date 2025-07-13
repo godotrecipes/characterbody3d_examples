@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://0gr6fdj6ml11"]
 
 [ext_resource type="PackedScene" uid="uid://dxn12tbth5a8j" path="res://assets/mini_tank/mini_tank 23.03.27.obj" id="1_iyxmy"]
-[ext_resource type="Script" path="res://mini_tank.gd" id="1_w4rh0"]
+[ext_resource type="Script" uid="uid://d2t8o4q2kkton" path="res://mini_tank.gd" id="1_w4rh0"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_vppcw"]
 size = Vector3(1.9378, 0.891182, 1.21242)
